@@ -13,5 +13,6 @@ public class pattern3D {
             }
             System.out.println(" ");
         }
+        System.out.println("Hello Prajwal`s git ");
     }
 }
